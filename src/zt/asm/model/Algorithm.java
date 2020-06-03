@@ -29,6 +29,7 @@ public class Algorithm {
   public void run(){
       int i = 0;
       int j = 2;
+      Test test = new Test();
       String tmp = "Hello World";
       j = j * i;
       System.out.println(j + "\t" + tmp);
